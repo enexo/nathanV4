@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2b818eb-7cbe-4d0e-8722-7f2eeb49b48b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nOX8XPmnk4MA3uX1RO6KwzO0DH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2b818eb-7cbe-4d0e-8722-7f2eeb49b48b" name="Default Changelist" comment="" />
+      <created>1611261951366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611261951366</updated>
+      <workItem from="1611261952518" duration="1110000" />
+      <workItem from="1611289377640" duration="14292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1985" y="335" key="EditFileWatcherDialog" timestamp="1611262522461">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1985" y="335" key="EditFileWatcherDialog/1440.25.1920.1055/0.25.1440.875/3360.25.1920.1055@1440.25.1920.1055" timestamp="1611262522461" />
+    <state x="1909" y="188" key="SettingsEditor" timestamp="1611262516395">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1909" y="188" key="SettingsEditor/1440.25.1920.1055/0.25.1440.875/3360.25.1920.1055@1440.25.1920.1055" timestamp="1611262516395" />
+    <state x="2065" y="259" width="670" height="58" key="search.everywhere.popup" timestamp="1611293403031">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="259" width="670" height="58" key="search.everywhere.popup/1440.25.1920.1055/0.25.1440.875/3360.25.1920.1055@1440.25.1920.1055" timestamp="1611293403031" />
+  </component>
+</project>
